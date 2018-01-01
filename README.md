@@ -2,7 +2,10 @@
 
 [GitBook](https://www.gitbook.com/book/everettjf/spacevimtutorial)
 
-编写中，未完成。
 
+![](media/15148316632538.jpg)
+
+
+这篇教程会随着我的使用不断完善。
 如有问题请联系微信：everettjf
 

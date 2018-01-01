@@ -19,6 +19,9 @@ SpaceVim会从当前文件自动向上查找`.git`目录或者`.projections.json
 
 # git使用
 
+*编写中*
+
+
 `SPC g A` 添加所有文件
 
 `SPC g s` 查看状态

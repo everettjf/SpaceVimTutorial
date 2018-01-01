@@ -49,4 +49,36 @@ curl -sLf https://spacevim.org/install.sh | bash
 ![](media/15148190874254.jpg)
 
 
+我这等了16分钟（986秒）安装完成。
+
+
+![](media/15148200364085.jpg)
+
+好了，退出MacVim，再次打开（再次打开可能有一些VIM插件更新），再次等待更新完成。（有些插件可能更新失败，目前先忽略，不影响当前教程的内容，如果需要的时候再去解决）
+
+![](media/15148204804291.jpg)
+
+
+
+
+
+# 5. 命令行怎么办
+
+如果在一个新安装的电脑上，现在命令行下还是系统自带的VIM，版本较低。
+
+如果你需要在命令行下使用VIM，相信你可以根据这个帖子解决： https://superuser.com/questions/334252/the-best-way-to-make-macvims-vim-console-not-mvim-the-default-instead-of-mac
+
+由于我们是通过dmg方式安装的MacVim，可以如下修改.bash_profile文件
+
+```
+alias vim="/Users/你的用户名/Applications/MacVim.app/Contents/MacOS/Vim"
+```
+
+你的用户名可以通过以下方式获得：
+
+```
+cd ~
+pwd 
+```
+
 

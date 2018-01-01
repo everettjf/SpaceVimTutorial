@@ -6,7 +6,7 @@
 * [简单配置](0x03-BasicConfig.md)
 * [工程管理](0x04-Project.md)
 * [初步进阶](0x05-Advance.md)
-* [小程序](0x06-Tool.md)
+* [娱乐一下](0x06-Fun.md)
 * [下一步](Next.md)
 
 

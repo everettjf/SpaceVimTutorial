@@ -59,6 +59,9 @@ curl -sLf https://spacevim.org/install.sh | bash
 ![](media/15148204804291.jpg)
 
 
+好了，完成。
+
+![](media/15148208130598.jpg)
 
 
 

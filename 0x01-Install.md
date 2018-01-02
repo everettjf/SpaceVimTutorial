@@ -28,6 +28,7 @@
 brew install macvim
 brew linkapps
 ```
+（每行表示一次回车）
 
 安装完成后，可以在LaunchPad看到MacVim了。
 ![](media/15148261067850.jpg)
@@ -41,7 +42,6 @@ brew linkapps
 rm -rf ~/.vim
 rm ~/.vim*
 ```
-（每行表示一次回车）
 
 # 4. 安装SpaceVim
 

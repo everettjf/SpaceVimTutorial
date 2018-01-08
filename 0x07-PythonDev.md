@@ -29,3 +29,5 @@ Run for login shells.
 ```
 
 http://zsh.sourceforge.net/Guide/zshguide02.html#l24
+
+or using `/etc/paths.d`

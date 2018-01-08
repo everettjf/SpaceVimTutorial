@@ -8,5 +8,6 @@
 * [初步进阶](0x05-Advance.md)
 * [娱乐一下](0x06-Fun.md)
 * [下一步](Next.md)
+* [Python开发环境](0x07-PythonDev.md)
 
 

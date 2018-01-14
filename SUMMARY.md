@@ -7,6 +7,7 @@
 * [工程管理](0x04-Project.md)
 * [初步进阶](0x05-Advance.md)
 * [下一步](Next.md)
-* 每天记一点
+* [每天用一点](Daily.md)
     - [Day1:相对行号](day/1.md)
+    - [Day2:代码注释](day/2.md)
 

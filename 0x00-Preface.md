@@ -4,7 +4,7 @@ SpaceVim是作者受spacemacs启发而开发的一套VIM配置，对新手来说
 
 这篇教程假设用户已经具备vim的基本编辑能力，不过如果没有使用过vim，文中也会有简单的提示。
 
-*这篇教程目前仅是面向macOS平台，未来会加入Windows及Linux平台。（SpaceVim是支持Windows和Linux平台的。）*
+**这篇教程目前仅面向macOS平台**
 
 让我们开始吧！
 

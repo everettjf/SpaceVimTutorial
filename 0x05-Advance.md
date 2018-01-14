@@ -1,6 +1,6 @@
 # 初步进阶
 
-*编写中*
+*完善中*
 
 
 # 命令行
@@ -19,4 +19,12 @@ SPC ! 然后输入 ls，最后 :q 退出
 pip install jedi
 ```
 
+## 与pyenv配合
+
+假设已经安装了 pyenv 和 Oh my zsh，
+
+1. .bash_profile
+2. .zprofile
+
+在以上两个文件中加入：`export PATH="$HOME/.pyenv/shims:$PATH"`。
 

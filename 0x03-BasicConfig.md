@@ -19,7 +19,7 @@ set timeoutlen=200
 所有支持的主题 https://github.com/rafi/awesome-vim-colorschemes
 
 ```
-let g:spacevim_colorscheme = 'molokai'
+let g:spacevim_colorscheme = 'onedark'
 ```
 
 
@@ -27,7 +27,7 @@ let g:spacevim_colorscheme = 'molokai'
 
 有些语言我用不到，注释掉吧。（这里根据个人情况来，我主要是用vim来写Python和Go）
 
-![](media/15148300470000.jpg)
+![](media/15160267878835.jpg)
 
 
 # 字体配置
@@ -63,6 +63,6 @@ iTerm2.app也需要单独配置字体：
 
 然后，就MacVim像我这样啦。
 
-![](media/15148307475813.jpg)
+![](media/15160268125722.jpg)
 
 

@@ -3,7 +3,7 @@
 [GitBook](https://www.gitbook.com/book/everettjf/spacevimtutorial)
 
 
-![](media/15148316632538.jpg)
+![](media/15160264747744.jpg)
 
 
 这篇教程会随着我的使用不断完善。

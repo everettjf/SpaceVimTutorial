@@ -12,4 +12,5 @@
     - [Day2:代码注释](day/2.md)
     - [Day3:录制宏](day/3.md)
     - [Day4:TagBar](day/4.md)
+    - [Day5:设置文件语法类型](day/5.md)
 

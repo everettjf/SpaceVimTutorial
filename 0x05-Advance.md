@@ -1,30 +1,4 @@
 # 初步进阶
 
-*完善中*
-
-
-# 命令行
-
-SPC ! 然后输入 ls，最后 :q 退出
-
-# Terminal
-
-:terminal
-
-# Python开发环境
-
-安装jedi后可支持自动补全。
-
-```
-pip install jedi
-```
-
-## 与pyenv配合
-
-假设已经安装了 pyenv 和 Oh my zsh，
-
-1. .bash_profile
-2. .zprofile
-
-在以上两个文件中加入：`export PATH="$HOME/.pyenv/shims:$PATH"`。
+玩点相对“高级”的。
 

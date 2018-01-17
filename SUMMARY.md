@@ -38,5 +38,5 @@
     - [Day3:录制宏](day/3.md)
     - [Day4:TagBar](day/4.md)
     - [Day5:设置文件语法类型](day/5.md)
-    - [Day6:grep当前文件（缓冲区）](day/6.md)
+    - [Day6:grep当前文件(缓冲区)](day/6.md)
 

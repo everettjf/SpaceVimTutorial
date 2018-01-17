@@ -7,6 +7,7 @@
     - [清理当前vim配置](install/3.md)
     - [安装SpaceVim](install/4.md)
     - [命令行](install/5.md)
+    - [字体配置](install/6.md)
 * [基础使用](0x02-BasicUsage.md)
     - [感受空格键](basic/0.md)
     - [开始输入](basic/1.md)

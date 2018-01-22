@@ -3,7 +3,7 @@
 
 SpaceVim提供了我们可以自定义配置的文件，就是`~/.SpaceVim.d/init.vim`文件，所有自定义的内容都可以放到这个文件中。这个文件夹也就可以通过git管理起来。
 
-以下配置可参考[我的配置文件](https://github.com/everettjf/.SpaceVim.d/blob/master/init.vim)
+以下配置可参考[我的配置文件](https://github.com/everettjf/Dotfiles/blob/master/.SpaceVim.d/init.vim)
 
 
 # 空格键延迟
@@ -39,7 +39,8 @@ let g:spacevim_colorscheme = 'onedark'
 可以这样安装：
 
 ```
-brew tap caskroom/fontsbrew cask install font-hack-nerd-font
+brew tap caskroom/fonts
+brew cask install font-hack-nerd-font
 ```
 
 对于MacVim，安装后在配置文件中加入：

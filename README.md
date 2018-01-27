@@ -6,5 +6,5 @@
 ![](media/15160264747744.jpg)
 
 
-如有问题请[提issue](https://github.com/everettjf/SpaceVimTutorial/issues/new)
+如有问题请[提issue](https://github.com/everettjf/SpaceVimTutorial/issues/new) 或 QQ群 121056965 @everettjf 或 微信 everettjf
 
